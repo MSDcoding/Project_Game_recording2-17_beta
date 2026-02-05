@@ -1,0 +1,7 @@
+# Game Release (Beta)
+
+# Platform: Windows (PC)
+
+# Download the Beta build:
+
+https://drive.google.com/drive/folders/1J8VnKyd4Mz_rkYlRfFVBr8e51BDLZigo?usp=drive_link
